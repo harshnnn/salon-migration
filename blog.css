@@ -1,0 +1,24 @@
+.blogs {
+  padding: 20px 0; /* Add padding to the section */
+  text-align: center; /* Center align the heading */
+}
+
+.blog-container {
+  max-width: 800px;
+  margin: 0 auto; /* Center the container */
+}
+
+.blogimg img {
+  max-width: 100%; /* Make the image responsive */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Remove any default inline styles */
+  margin: 0 auto 20px; /* Add margin below the image */
+}
+
+.blogtext {
+  text-align: left; /* Align text to the left */
+}
+
+.blogtext p {
+  margin-bottom: 20px; /* Add margin between paragraphs */
+}
